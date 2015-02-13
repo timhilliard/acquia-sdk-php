@@ -1,0 +1,10 @@
+{
+  "status": "ok",
+  "data": {
+    "lock_id": "getLock",
+    "uuid": "getLock-89ab-cdef-0123-456789abcdef",
+    "ttl": 30,
+    "message": "getLock test message",
+    "timeout": 15
+  }
+}

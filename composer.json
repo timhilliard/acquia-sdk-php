@@ -43,6 +43,7 @@
         "acquia/acquia-sdk-php-common": "self.version",
         "acquia/acquia-sdk-php-env": "self.version",
         "acquia/acquia-sdk-php-json": "self.version",
+        "acquia/acquia-sdk-php-locker": "self.version",
         "acquia/acquia-sdk-php-network": "self.version",
         "acquia/acquia-sdk-php-rest": "self.version",
         "acquia/acquia-sdk-php-search": "self.version"

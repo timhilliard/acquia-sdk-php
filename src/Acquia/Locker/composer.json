@@ -1,0 +1,24 @@
+{
+    "name": "acquia/acquia-sdk-php-locker",
+    "type": "library",
+    "description": "Acquia Locker component for the Acquia SDK for PHP.",
+    "keywords": ["acquia"],
+    "homepage": "https://github.com/acquia/acquia-sdk-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "See contributors",
+            "homepage": "https://github.com/acquia/acquia-sdk-php/graphs/contributors"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "acquia/acquia-sdk-php-rest": "self.version"
+    },
+    "autoload": {
+        "psr-0": {
+            "Acquia\\Locker": ""
+        }
+    },
+    "target-dir": "Acquia/Locker"
+}

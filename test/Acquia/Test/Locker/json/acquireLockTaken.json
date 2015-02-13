@@ -1,0 +1,5 @@
+{
+  "status": "user_error",
+  "data": {},
+  "error_message": "Unable to acquire the lock. Please try again"
+}
